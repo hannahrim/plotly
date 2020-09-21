@@ -1,1 +1,1 @@
-# plotly
+In this repository, I completed a dashboard to identify what species of bacteria and the quantity that can be found in someone's belly button. I utilized Plotly to create various charts to visually represent the findings: bar chart, bubble chart, and a demographic informational panel. The bubble chart depicts the relative frequency of all bacterial species in their belly button. The bar chart shows the top 10 most populous species found in their belly button and the gauge shows how often they wash their belly button. My dashboard was deployed to github pages. 
